@@ -1,4 +1,4 @@
-# Emotion Detection Application
+# Final Project: Emotion Detection Application
 
 ## Project Name
 **EmotionDetection** — An AI-based Emotion Detector using Watson NLP
